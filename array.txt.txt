@@ -43,7 +43,7 @@ public class ExampleJava {
                  double avr = summ/arr.length;
                  System.out.println("average of all number : "+avr);break;
              default :
-                 System.out.println("undefind !");
+                 System.out.println("undefind !!");
     }
 }
     }
