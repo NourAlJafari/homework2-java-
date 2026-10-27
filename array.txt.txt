@@ -40,7 +40,7 @@ public class ExampleJava {
                  int summ=0;
              for (int j = 0; j < arr.length; j++) {
     summ+=arr[j]; }
-                 double avr = summ/arr.length;
+                 double avr = (double)summ/arr.length;
                  System.out.println("average of all number : "+avr);break;
              default :
                  System.out.println("undefind !!");
